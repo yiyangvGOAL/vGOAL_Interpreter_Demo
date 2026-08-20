@@ -1,0 +1,11 @@
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P5', 'Docked': True, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
+{'Position': 'P8', 'Docked': False, 'Holding': False, 'Battery': 'L3', 'Error': 'None'}
